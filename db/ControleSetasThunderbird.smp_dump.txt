@@ -1,0 +1,18 @@
+
+State Machine - |ControleSetasThunderbird|estado_lanterna_dir
+Name estado_lanterna_dir.estagio_5 estado_lanterna_dir.estagio_4 estado_lanterna_dir.estagio_3 estado_lanterna_dir.estagio_2 estado_lanterna_dir.estagio_1 estado_lanterna_dir.estagio_0 
+estado_lanterna_dir.estagio_0 0 0 0 0 0 0 
+estado_lanterna_dir.estagio_1 0 0 0 0 1 1 
+estado_lanterna_dir.estagio_2 0 0 0 1 0 1 
+estado_lanterna_dir.estagio_3 0 0 1 0 0 1 
+estado_lanterna_dir.estagio_4 0 1 0 0 0 1 
+estado_lanterna_dir.estagio_5 1 0 0 0 0 1 
+
+State Machine - |ControleSetasThunderbird|estado_lanterna_esq
+Name estado_lanterna_esq.estagio_5 estado_lanterna_esq.estagio_4 estado_lanterna_esq.estagio_3 estado_lanterna_esq.estagio_2 estado_lanterna_esq.estagio_1 estado_lanterna_esq.estagio_0 
+estado_lanterna_esq.estagio_0 0 0 0 0 0 0 
+estado_lanterna_esq.estagio_1 0 0 0 0 1 1 
+estado_lanterna_esq.estagio_2 0 0 0 1 0 1 
+estado_lanterna_esq.estagio_3 0 0 1 0 0 1 
+estado_lanterna_esq.estagio_4 0 1 0 0 0 1 
+estado_lanterna_esq.estagio_5 1 0 0 0 0 1 

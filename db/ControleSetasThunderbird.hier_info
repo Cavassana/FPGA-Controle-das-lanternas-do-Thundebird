@@ -1,0 +1,44 @@
+|ControleSetasThunderbird
+clk => op.CLK
+clk => aContagem[0].CLK
+clk => aContagem[1].CLK
+clk => aContagem[2].CLK
+clk => aContagem[3].CLK
+clk => aContagem[4].CLK
+clk => aContagem[5].CLK
+clk => aContagem[6].CLK
+clk => aContagem[7].CLK
+clk => aContagem[8].CLK
+clk => aContagem[9].CLK
+clk => aContagem[10].CLK
+clk => aContagem[11].CLK
+clk => aContagem[12].CLK
+clk => aContagem[13].CLK
+clk => aContagem[14].CLK
+clk => aContagem[15].CLK
+clk => aContagem[16].CLK
+clk => aContagem[17].CLK
+clk => aContagem[18].CLK
+clk => aContagem[19].CLK
+clk => aContagem[20].CLK
+clk => aContagem[21].CLK
+clk => aContagem[22].CLK
+clk => aContagem[23].CLK
+clk => aContagem[24].CLK
+clk => aContagem[25].CLK
+alavanca[0] => Equal0.IN3
+alavanca[0] => Equal1.IN3
+alavanca[0] => Equal2.IN3
+alavanca[0] => Equal3.IN3
+alavanca[1] => Equal0.IN2
+alavanca[1] => Equal1.IN2
+alavanca[1] => Equal2.IN2
+alavanca[1] => Equal3.IN2
+lanterna_esq[0] <= WideOr13.DB_MAX_OUTPUT_PORT_TYPE
+lanterna_esq[1] <= WideOr12.DB_MAX_OUTPUT_PORT_TYPE
+lanterna_esq[2] <= WideOr11.DB_MAX_OUTPUT_PORT_TYPE
+lanterna_dir[0] <= WideOr10.DB_MAX_OUTPUT_PORT_TYPE
+lanterna_dir[1] <= WideOr9.DB_MAX_OUTPUT_PORT_TYPE
+lanterna_dir[2] <= WideOr8.DB_MAX_OUTPUT_PORT_TYPE
+
+
